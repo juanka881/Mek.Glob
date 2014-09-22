@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mek.Glob", "Mek.Glob\Mek.Glob.csproj", "{2845FE9B-4DED-466A-B83F-5F18204C70A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mek.Glob.Tests", "Mek.Glob.Tests\Mek.Glob.Tests.csproj", "{647EE3E6-0D69-44B2-AFA5-4BA83178C804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2845FE9B-4DED-466A-B83F-5F18204C70A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2845FE9B-4DED-466A-B83F-5F18204C70A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2845FE9B-4DED-466A-B83F-5F18204C70A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2845FE9B-4DED-466A-B83F-5F18204C70A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647EE3E6-0D69-44B2-AFA5-4BA83178C804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647EE3E6-0D69-44B2-AFA5-4BA83178C804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647EE3E6-0D69-44B2-AFA5-4BA83178C804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647EE3E6-0D69-44B2-AFA5-4BA83178C804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
