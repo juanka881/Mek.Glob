@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Mek.Glob")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("glob pattern expander for c#")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("https://github.com/juankakode/Mek.Glob")]
 [assembly: AssemblyProduct("Mek.Glob")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
