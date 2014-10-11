@@ -1,4 +1,4 @@
-# Mek.Glob
+# Mek.Glob [![Build status](https://ci.appveyor.com/api/projects/status/txvbf81rja2fm3eb?svg=true)](https://ci.appveyor.com/project/juankakode/mek-glob)
 
 a [glob](http://en.wikipedia.org/wiki/Glob_(programming) "glob") expansion library for c#. Allows to take a text pattern and get back a list of file system paths that match the expression.  
 
